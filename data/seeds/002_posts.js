@@ -20,7 +20,7 @@ exports.seed = function(knex, Promise) {
     },
     {
       chef_name: "Sam",
-      recipe_title: "Steak",
+      recipe_title: "Dolphin Steak",
       item_photo:
         "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
       chef_location: "Colonie, NY",
